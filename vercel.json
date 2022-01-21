@@ -1,0 +1,15 @@
+{
+
+  "rewrites": [
+
+    {
+
+      "source": "/api/:match*",
+
+      "destination": "https://zmxlapi.vercel.app/:match*"
+
+    }
+
+  ]
+
+}
